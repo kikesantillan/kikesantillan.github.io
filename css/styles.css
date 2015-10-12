@@ -1,0 +1,55 @@
+body{
+background-color: #5F9EA0;
+}
+
+
+h1{
+color: white;
+font-family: Impact;
+display: inline;
+}
+
+.imagenes {
+width: 130px; 
+height: 100px;
+margin: 55px;
+}
+
+div > p {
+font-size: 25px
+}
+
+.menu {
+display: inline;
+width:19%;
+float: left;
+height: 20px;
+margin-right: 2%
+}
+
+a:link {
+    color: darkred;
+}
+
+a:visited {
+    color: darkgoldenrod;
+}
+
+a:focus {
+    color: coral;
+}
+
+a:hover {
+    color: purple;
+}
+
+a:active {
+    color: black;
+}
+
+.container {
+    margin: auto;
+    width: 60%;
+    display: inline;
+}
+
